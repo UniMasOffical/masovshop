@@ -1,5 +1,5 @@
 import './style.css';
-import React from 'react';
+import React, { useEffect } from 'react';
 const tg = window.Telegram.WebApp;
 
 function App() {
